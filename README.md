@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-TypeScript     1 hr 58 mins    ███████████░░░░░░░░░░░░░░   43.80 %
-Markdown       1 hr 48 mins    ██████████░░░░░░░░░░░░░░░   39.90 %
-JavaScript     25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-Less           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-XML            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+TypeScript     2 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   39.41 %
+Markdown       1 hr 42 mins    ████████░░░░░░░░░░░░░░░░░   31.44 %
+JavaScript     29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+JSON           24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Vue.js         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
