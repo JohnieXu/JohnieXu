@@ -17,11 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2023 - To: 02 October 2023
+From: 26 September 2023 - To: 03 October 2023
 
-TypeScript   36 mins         ███████████████████░░░░░░   76.63 %
-Markdown     10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   36 mins         █████████████████████████   99.99 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
