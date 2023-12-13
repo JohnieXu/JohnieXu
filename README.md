@@ -17,13 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-Dart         58 mins         ███████████░░░░░░░░░░░░░░   44.59 %
-Rust         32 mins         ██████░░░░░░░░░░░░░░░░░░░   24.62 %
-TOML         16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-JSON         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Dart   58 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
