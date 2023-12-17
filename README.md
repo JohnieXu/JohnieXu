@@ -17,10 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2023 - To: 15 December 2023
+From: 09 December 2023 - To: 16 December 2023
 
-Dart   2 hrs 12 mins   █████████████████████████   99.36 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Dart    3 hrs 27 mins   ██████████████████████▒░░   89.89 %
+Go      20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
