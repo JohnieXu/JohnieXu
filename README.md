@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2023 - To: 16 December 2023
+From: 10 December 2023 - To: 17 December 2023
 
 Dart    3 hrs 27 mins   ██████████████████████▒░░   89.89 %
 Go      20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
