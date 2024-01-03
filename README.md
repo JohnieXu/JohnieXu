@@ -17,13 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-Dart         6 hrs 19 mins   ███████████████████▒░░░░░   77.80 %
-Go           1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-JavaScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Dart   6 hrs 20 mins   █████████████████████░░░░   84.26 %
+Go     1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
