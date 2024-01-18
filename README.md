@@ -17,9 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 16 January 2024
+From: 10 January 2024 - To: 17 January 2024
 
-No activity tracked
+Dart         4 hrs 35 mins   ███████████████████████░░   92.29 %
+HTML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Vue.js       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
