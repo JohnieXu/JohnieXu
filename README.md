@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
 Dart         4 hrs 35 mins   ███████████████████████░░   92.29 %
 HTML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
