@@ -17,13 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2024 - To: 22 January 2024
+From: 16 January 2024 - To: 23 January 2024
 
-Dart         45 mins         ███████████████████░░░░░░   75.80 %
-HTML         11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
-Vue.js       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+HTML         11 mins         ████████████████████▒░░░░   81.07 %
+Vue.js       1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+JavaScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
