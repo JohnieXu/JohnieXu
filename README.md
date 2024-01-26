@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2024 - To: 24 January 2024
+From: 18 January 2024 - To: 25 January 2024
 
-JSON         58 mins         █████████████▒░░░░░░░░░░░   53.66 %
-JavaScript   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
-Python       13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-TypeScript   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-CMake        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+JSON          1 hr 3 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
+CMake         1 hr 1 min      █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
+JavaScript    39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Makefile      39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+C++           23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
 ```
 
 <!--END_SECTION:waka-->
