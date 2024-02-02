@@ -17,13 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-CMake         54 mins         ████████▒░░░░░░░░░░░░░░░░   32.73 %
-Makefile      38 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
-C++           23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
-JavaScript    23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-Other         20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
