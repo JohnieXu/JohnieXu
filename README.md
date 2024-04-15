@@ -17,9 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-No activity tracked
+TypeScript   26 mins         ███████████████████████▓░   94.77 %
+JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
