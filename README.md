@@ -17,9 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2024 - To: 06 September 2024
+From: 31 August 2024 - To: 07 September 2024
 
-Vue.js   28 mins         █████████████████████████   100.00 %
+TypeScript   1 hr 7 mins     █████████████▒░░░░░░░░░░░   53.12 %
+JavaScript   29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+Vue.js       28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
+TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
