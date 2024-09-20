@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 12 September 2024 - To: 19 September 2024
 
-Markdown     24 mins         ██████████▓░░░░░░░░░░░░░░   42.68 %
-JSON         15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
-JavaScript   15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
-TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Markdown     24 mins         ███████████▒░░░░░░░░░░░░░   45.16 %
+JavaScript   15 mins         ███████░░░░░░░░░░░░░░░░░░   27.60 %
+JSON         14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
