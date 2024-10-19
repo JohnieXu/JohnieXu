@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2024 - To: 17 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
 JavaScript   47 mins         ████████████████▒░░░░░░░░   65.88 %
 Other        14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.16 %
