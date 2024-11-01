@@ -17,13 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Vue.js       1 hr 33 mins    ████████████████████░░░░░   80.08 %
-TypeScript   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-JavaScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
