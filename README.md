@@ -17,12 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-Dart       31 mins         ████████████████████▒░░░░   80.83 %
-TOML       6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
