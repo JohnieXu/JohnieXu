@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-Vue.js                     10 hrs 19 mins  ███████████████████▒░░░░░   76.86 %
-TypeScript                 1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Other                      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Nginx configuration file   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-textmate                   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Vue.js                     12 hrs 3 mins   ██████████████████▓░░░░░░   75.10 %
+TypeScript                 2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
+HTML                       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Other                      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Nginx configuration file   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
