@@ -17,9 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2025 - To: 01 May 2025
+From: 25 April 2025 - To: 02 May 2025
 
-No activity tracked
+Vue.js       24 mins         █████████████████░░░░░░░░   68.53 %
+TypeScript   11 mins         ████████░░░░░░░░░░░░░░░░░   31.36 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
