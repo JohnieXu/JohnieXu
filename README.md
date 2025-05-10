@@ -17,11 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2025 - To: 08 May 2025
+From: 02 May 2025 - To: 09 May 2025
 
-Vue.js       2 hrs 1 min     █████████████████████░░░░   84.65 %
-TypeScript   21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Vue.js       1 hr 36 mins    ██████████████████████▓░░   90.07 %
+TypeScript   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
 ```
 
 <!--END_SECTION:waka-->
