@@ -17,9 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-No activity tracked
+Vue.js           1 hr 8 mins     █████████████▓░░░░░░░░░░░   54.18 %
+JSON             35 mins         ███████░░░░░░░░░░░░░░░░░░   28.18 %
+TypeScript       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+SQL              7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Markdown         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
 ```
 
 <!--END_SECTION:waka-->
