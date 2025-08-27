@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Markdown      4 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.24 %
-Vue.js        3 hrs 44 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
-TypeScript    2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-Astro         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Go            40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Markdown      3 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   34.82 %
+Vue.js        3 hrs 44 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 %
+TypeScript    49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Go            40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+JavaScript    31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
