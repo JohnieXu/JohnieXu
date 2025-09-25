@@ -29,4 +29,4 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/JohnieXu/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.deno.dev/JohnieXu/count.svg" alt ="Loading">
