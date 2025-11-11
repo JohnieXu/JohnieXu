@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2025 - To: 09 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-TypeScript        2 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.13 %
-JavaScript        1 hr 1 min      █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-Python            25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-PowerShell        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-CSS               15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+TypeScript        2 hrs 33 mins   ████████████▓░░░░░░░░░░░░   50.41 %
+JavaScript        1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+Python            25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+PowerShell        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+CSS               17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
