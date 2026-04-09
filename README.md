@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
 TypeScript   27 mins               █████████▓░░░░░░░░░░░░░░░   38.48 %
 Vue.js       19 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
