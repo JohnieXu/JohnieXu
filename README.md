@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 24 April 2026
+From: 18 April 2026 - To: 25 April 2026
 
-Dart          3 hrs 8 mins          ████████████░░░░░░░░░░░░░   48.22 %
-TypeScript    1 hr 42 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
-JSON          33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Other         30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-JavaScript    19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Dart          3 hrs 8 mins          ████████▒░░░░░░░░░░░░░░░░   33.01 %
+TypeScript    3 hrs 7 mins          ████████▒░░░░░░░░░░░░░░░░   32.80 %
+Other         1 hr 10 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+JSON          36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+SCSS          31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
