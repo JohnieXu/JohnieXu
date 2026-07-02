@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 30 June 2026
+From: 24 June 2026 - To: 01 July 2026
 
-Vue             11 hrs 42 mins        ███████████▓░░░░░░░░░░░░░   46.35 %
-TypeScript      5 hrs 45 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
-JavaScript      1 hr 23 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Objective-C++   1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Other           1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Vue             15 hrs 23 mins        ███████████▓░░░░░░░░░░░░░   46.72 %
+TypeScript      8 hrs 15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
+JavaScript      2 hrs 10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Markdown        1 hr 37 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+JSON            1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
