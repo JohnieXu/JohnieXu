@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2026 - To: 24 August 2026
+From: 18 August 2026 - To: 25 August 2026
 
-Vue           4 hrs 30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.80 %
-TypeScript    3 hrs 4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-JavaScript    2 hrs 18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-C++           1 hr 59 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-GN            38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Vue           3 hrs 45 mins         ███████▓░░░░░░░░░░░░░░░░░   30.22 %
+TypeScript    2 hrs 19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
+JavaScript    2 hrs 2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+C++           1 hr 59 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
+GN            32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
 <!--END_SECTION:waka-->
